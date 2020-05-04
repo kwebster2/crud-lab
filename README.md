@@ -29,7 +29,7 @@ delete restaurants. To implement this, you will need to give each restaurant
 an ID.
 
 **Note**: To implement IDs, it may be worth integrating another library in the
-reducer called cuid. You can see that we already imported it in the reducer
+RestaurantInput component called cuid. You can see that we already imported it in the RestaurantInput component
 file for you. The library will generate a unique id for you:
 
   ```javascript
